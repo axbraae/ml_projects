@@ -1,6 +1,7 @@
 # Machine Learning projects
  Repo for practice machine learning projects and notes.
  
+ 
  Possible project ideas:
  
  * [data-flair](https://data-flair.training/blogs/machine-learning-project-ideas/)
