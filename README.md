@@ -1,5 +1,10 @@
 # Machine Learning projects
  Repo for practice machine learning projects and notes.
+ In CodeClan I ran a lot of these models in R. This repo is to repeat the models using Python ML packages.
+ 
+ Models:
+ 
+ * [XGBoost](/xgboost) 
  
  
  Possible project ideas:
