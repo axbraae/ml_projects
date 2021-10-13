@@ -1,6 +1,6 @@
 # XGBoost
 
-Extreme gradient boost (XGBoost) models. Structured ML.
+Extreme gradient boost (XGBoost) models. Structured ML. Can be used as classifier or regressor.
 
 Using `xgboost`. 
 
